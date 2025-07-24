@@ -1,5 +1,6 @@
 3D Canopy Height Mapping for Thaha Municipality
 This repository contains R code to generate a 3D canopy height model (CHM) for Thaha Municipality, Nepal, using the forestdata package. The project downloads shapefiles, processes canopy height data, and creates both 2D and 3D visualizations with annotations.
+![Thaha CHM](Thaha%20Municipality%20Canopy%20Height%20Model.png)
 Table of Contents
 
 Overview
